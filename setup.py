@@ -9,9 +9,8 @@ with open(path.join(base_path, 'README.rst'), encoding='utf-8') as f:
 
 setup(
     name='txttobitmap',
-    version='1.0.0',
-    description='Simple script that converts given file (text file or'
-                'essentially whatever) to a bitmap',
+    version='1.0.1',
+    description='Simple script that converts given file to a bitmap',
     long_description=long_description,
     url='https://github.com/m4tx/txttobitmap',
 
