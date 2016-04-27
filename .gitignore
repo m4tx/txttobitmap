@@ -1,0 +1,7 @@
+# Distribution/packaging
+*.egg-info/
+dist/
+build/
+
+# Compiled bytecode
+*.pyc
