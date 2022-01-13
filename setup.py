@@ -36,7 +36,7 @@ setup(
 
     keywords='txt bitmap conversion',
     py_modules=['txttobitmap'],
-    install_requires=['Pillow>=3.0.0,<7'],
+    install_requires=['Pillow>=3.0.0,<10'],
     entry_points={
         'console_scripts': [
             'txttobitmap=txttobitmap:main',
